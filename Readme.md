@@ -1,5 +1,4 @@
 # Image carousel
-
 ![Preview](https://github.com/Saveliy113/slider-2/blob/master/img/preview.gif)
 
 The image carousel is a versatile and customizable carousel slider built using HTML, CSS, and JavaScript.
