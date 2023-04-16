@@ -1,5 +1,5 @@
 # Image carousel
-
+![Preview](https://github.com/Saveliy113/slider-2/blob/master/img/preview.gif)
 The image carousel is a versatile and customizable carousel slider built using HTML, CSS, and JavaScript.
 
 It features classic design, with smooth transitions and a responsive layout that adapts to different screen sizes. Allows users to display a series of images in a slideshow format, with navigation buttons that enable them to move between images manually.
